@@ -7,3 +7,4 @@
 |---------------- | --------------- | --------------- | --------------- | -------- |
 Probability       | [bday-gift](https://www.hackerrank.com/challenges/bday-gift/problem) | Easy | 30.0 | [Python](./Python/bday-gift.py)
 Probability       | [random-number-generator](https://www.hackerrank.com/challenges/random-number-generator/problem) | Easy | 5.0 | [Python](./Python/random-number-generator.py)
+Probability       | [vertical-sticks](https://www.hackerrank.com/challenges/vertical-sticks/problem) | Medium | 50.0 | [Python](./Python/vertical-sticks.py)
