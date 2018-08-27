@@ -5,6 +5,7 @@
 
 | Subdomain       |  Challenge      | Difficulty      |  Points         | Solution           
 |---------------- | --------------- | --------------- | --------------- | -------- |
+Interview Preparation Kit - Arrays | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | Easy | 20.0 | [Python](./Python/ctci-array-left-rotation)
 Mathematics - Probability       | [B'day Gift](https://www.hackerrank.com/challenges/bday-gift/problem) | Easy | 30.0 | [Python](./Python/bday-gift.py)
 Mathematics - Fundamentals      | [Handshake](https://www.hackerrank.com/challenges/handshake/problem) | Easy | 10.0 | [Python](./Python/handshake.py)
 Mathematics - Fundamentals      | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem) | Easy | 5.0 | [Python](./Python/maximum-draws.py)
