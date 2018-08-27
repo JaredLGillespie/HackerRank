@@ -10,6 +10,7 @@ Interview Preparation Kit - Arrays | [Arrays: Left Rotation](https://www.hackerr
 Mathematics - Probability       | [B'day Gift](https://www.hackerrank.com/challenges/bday-gift/problem) | Easy | 30.0 | [Python](./Python/bday-gift.py)
 Mathematics - Fundamentals      | [Handshake](https://www.hackerrank.com/challenges/handshake/problem) | Easy | 10.0 | [Python](./Python/handshake.py)
 Mathematics - Fundamentals      | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem) | Easy | 5.0 | [Python](./Python/maximum-draws.py)
+Interview Preparation Kit - Arrays | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) | Medium | 40.0 | [Python](./Python/minimum-swaps-2.py)
 Interview Preparation Kit - Arrays | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | Medium | 40.0 | [Python](./Python/new-year-chaos.py)
 Mathematics - Combinatorics     | [Picking Cards](https://www.hackerrank.com/challenges/picking-cards/problem) | Easy | 50.0 | [Python](./Python/picking-cards.py)
 Mathematics - Probability       | [Random Number Generator](https://www.hackerrank.com/challenges/random-number-generator/problem) | Easy | 5.0 | [Python](./Python/random-number-generator.py)
