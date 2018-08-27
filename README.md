@@ -9,6 +9,7 @@ Interview Preparation Kit - Arrays | [2D Array - DS](https://www.hackerrank.com/
 Interview Preparation Kit - Arrays | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) | Hard | 60.0 | [Python](./Python/crush.py)
 Interview Preparation Kit - Arrays | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | Easy | 20.0 | [Python](./Python/ctci-array-left-rotation.py)
 Mathematics - Probability       | [B'day Gift](https://www.hackerrank.com/challenges/bday-gift/problem) | Easy | 30.0 | [Python](./Python/bday-gift.py)
+Interview Preparation Kit - Dynamic Programming | [Candies](https://www.hackerrank.com/challenges/candies/problem) | Medium | 50.0 | [Python](./Python/candies.py)
 Mathematics - Fundamentals      | [Handshake](https://www.hackerrank.com/challenges/handshake/problem) | Easy | 10.0 | [Python](./Python/handshake.py)
 Interview Preparation Kit - Dynamic Programming | [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem) | Medium | 20.0 | [Python](./Python/max-array-sum.py)
 Mathematics - Fundamentals      | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem) | Easy | 5.0 | [Python](./Python/maximum-draws.py)
