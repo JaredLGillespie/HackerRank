@@ -21,7 +21,7 @@ Interview Preparation Kit - Arrays | [Minimum Swaps 2](https://www.hackerrank.co
 Interview Preparation Kit - Arrays | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | Medium | 40.0 | [Python](./Python/new-year-chaos.py)
 Mathematics - Combinatorics     | [Picking Cards](https://www.hackerrank.com/challenges/picking-cards/problem) | Easy | 50.0 | [Python](./Python/picking-cards.py)
 Mathematics - Probability       | [Random Number Generator](https://www.hackerrank.com/challenges/random-number-generator/problem) | Easy | 5.0 | [Python](./Python/random-number-generator.py)
-Interview Preparation Kit - Dictionaries and Hashmaps | [Sherlock and Anagrams](./https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | Medium | 50.0 | [Python](./Python/sherlock-and-anagrams.py)s
+Interview Preparation Kit - Dictionaries and Hashmaps | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | Medium | 50.0 | [Python](./Python/sherlock-and-anagrams.py)
 Mathematics - Combinatorics     | [Sherlock and Pairs](https://www.hackerrank.com/challenges/sherlock-and-pairs/problem) | Easy | 30.0 | [Python](./Python/sherlock-and-pairs.py)
 Interview Preparation Kit - Sorting | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | Easy | 30.0 | [Python](./Python/ctci-bubble-sort.py)
 Interview Preparation Kit - Dictionaries and Hashmaps | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | Easy | 20.0 | [Python](./Python/two-strings.py)
