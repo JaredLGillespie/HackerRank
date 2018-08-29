@@ -10,6 +10,7 @@ Interview Preparation Kit - Arrays | [Array Manipulation](https://www.hackerrank
 Interview Preparation Kit - Arrays | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | Easy | 20.0 | [Python](./Python/ctci-array-left-rotation.py)
 Mathematics - Probability       | [B'day Gift](https://www.hackerrank.com/challenges/bday-gift/problem) | Easy | 30.0 | [Python](./Python/bday-gift.py)
 Interview Preparation Kit - Dynamic Programming | [Candies](https://www.hackerrank.com/challenges/candies/problem) | Medium | 50.0 | [Python](./Python/candies.py)
+Interview Preparation Kit - Dictionaries and Hashmaps | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1) | Medium | 35.0 | [Python](./Python/count-triplets-1.py)
 Mathematics - Fundamentals      | [Handshake](https://www.hackerrank.com/challenges/handshake/problem) | Easy | 10.0 | [Python](./Python/handshake.py)
 Interview Preparation Kit - Dictionaries and Hashmaps | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | Easy | 25.0 | [Python](./Python/ctci-ransom-note.py)
 Interview Preparation Kit - Dynamic Programming | [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem) | Medium | 20.0 | [Python](./Python/max-array-sum.py)
