@@ -14,6 +14,7 @@ Interview Preparation Kit - Dictionaries and Hashmaps | [Count Triplets](https:/
 Interview Preparation Kit - Dictionaries and Hashmaps | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) | Medium | 40.0 | [Python](./Python/frequency-queries.py)
 Mathematics - Fundamentals      | [Handshake](https://www.hackerrank.com/challenges/handshake/problem) | Easy | 10.0 | [Python](./Python/handshake.py)
 Interview Preparation Kit - Dictionaries and Hashmaps | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | Easy | 25.0 | [Python](./Python/ctci-ransom-note.py)
+Interview Preparation Kit - Sorting | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem) | Easy | 35.0 | [Python](./Python/mark-and-toys.py)
 Interview Preparation Kit - Dynamic Programming | [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem) | Medium | 20.0 | [Python](./Python/max-array-sum.py)
 Mathematics - Fundamentals      | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem) | Easy | 5.0 | [Python](./Python/maximum-draws.py)
 Interview Preparation Kit - Arrays | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) | Medium | 40.0 | [Python](./Python/minimum-swaps-2.py)
