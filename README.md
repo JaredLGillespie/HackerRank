@@ -23,5 +23,6 @@ Mathematics - Combinatorics     | [Picking Cards](https://www.hackerrank.com/cha
 Mathematics - Probability       | [Random Number Generator](https://www.hackerrank.com/challenges/random-number-generator/problem) | Easy | 5.0 | [Python](./Python/random-number-generator.py)
 Interview Preparation Kit - Dictionaries and Hashmaps | [Sherlock and Anagrams](./https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | Medium | 50.0 | [Python](./Python/sherlock-and-anagrams.py)s
 Mathematics - Combinatorics     | [Sherlock and Pairs](https://www.hackerrank.com/challenges/sherlock-and-pairs/problem) | Easy | 30.0 | [Python](./Python/sherlock-and-pairs.py)
+Interview Preparation Kit - Sorting | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | Easy | 30.0 | [Python](./Python/ctci-bubble-sort.py)
 Interview Preparation Kit - Dictionaries and Hashmaps | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | Easy | 20.0 | [Python](./Python/two-strings.py)
 Mathematics - Probability       | [Vertical Sticks](https://www.hackerrank.com/challenges/vertical-sticks/problem) | Medium | 50.0 | [Python](./Python/vertical-sticks.py)
