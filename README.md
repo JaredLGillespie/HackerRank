@@ -18,4 +18,5 @@ Interview Preparation Kit - Arrays | [New Year Chaos](https://www.hackerrank.com
 Mathematics - Combinatorics     | [Picking Cards](https://www.hackerrank.com/challenges/picking-cards/problem) | Easy | 50.0 | [Python](./Python/picking-cards.py)
 Mathematics - Probability       | [Random Number Generator](https://www.hackerrank.com/challenges/random-number-generator/problem) | Easy | 5.0 | [Python](./Python/random-number-generator.py)
 Mathematics - Combinatorics     | [Sherlock and Pairs](https://www.hackerrank.com/challenges/sherlock-and-pairs/problem) | Easy | 30.0 | [Python](./Python/sherlock-and-pairs.py)
+Interview Preparation Kit - Dictionaries and Hashmaps | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | Easy | 20.0 | [Python](./Python/two-strings.py)
 Mathematics - Probability       | [Vertical Sticks](https://www.hackerrank.com/challenges/vertical-sticks/problem) | Medium | 50.0 | [Python](./Python/vertical-sticks.py)
