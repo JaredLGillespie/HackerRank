@@ -22,6 +22,7 @@ Interview Preparation Kit - Dynamic Programming | [Max Array Sum](https://www.ha
 Mathematics - Fundamentals      | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem) | Easy | 5.0 | [Python](./Python/maximum-draws.py)
 Interview Preparation Kit - Arrays | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) | Medium | 40.0 | [Python](./Python/minimum-swaps-2.py)
 Interview Preparation Kit - Arrays | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | Medium | 40.0 | [Python](./Python/new-year-chaos.py)
+Interview Preparation Kit - Search | [Pairs](https://www.hackerrank.com/challenges/pairs/problem) | Medium | 50.0 | [Python](./Python/pairs.py)
 Mathematics - Combinatorics     | [Picking Cards](https://www.hackerrank.com/challenges/picking-cards/problem) | Easy | 50.0 | [Python](./Python/picking-cards.py)
 Mathematics - Probability       | [Random Number Generator](https://www.hackerrank.com/challenges/random-number-generator/problem) | Easy | 5.0 | [Python](./Python/random-number-generator.py)
 Interview Preparation Kit - Dictionaries and Hashmaps | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | Medium | 50.0 | [Python](./Python/sherlock-and-anagrams.py)
