@@ -21,6 +21,7 @@ Algorithms - Search | [Hackerland Radio Transmitters](https://www.hackerrank.com
 Mathematics - Fundamentals      | [Handshake](https://www.hackerrank.com/challenges/handshake/problem) | Easy | 10.0 | [Python](./Python/handshake.py)
 Interview Preparation Kit - Search | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) | Medium | 35.0 | [Python](./Python/ctci-ice-cream-parlor.py)
 Interview Preparation Kit - Dictionaries and Hashmaps | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | Easy | 25.0 | [Python](./Python/ctci-ransom-note.py)
+Algorithms - Search | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem) | Easy | 30.0 | [Python](./Python/icecream-parlor.py)
 Interview Preparation Kit - Sorting | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem) | Easy | 35.0 | [Python](./Python/mark-and-toys.py)
 Interview Preparation Kit - Dynamic Programming | [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem) | Medium | 20.0 | [Python](./Python/max-array-sum.py)
 Mathematics - Fundamentals      | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem) | Easy | 5.0 | [Python](./Python/maximum-draws.py)
