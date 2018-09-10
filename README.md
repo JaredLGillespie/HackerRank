@@ -13,6 +13,7 @@ Interview Preparation Kit - Dynamic Programming | [Candies](https://www.hackerra
 Interview Preparation Kit - Dictionaries and Hashmaps | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1) | Medium | 35.0 | [Python](./Python/count-triplets-1.py)
 Interview Preparation Kit - Dictionaries and Hashmaps | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) | Medium | 40.0 | [Python](./Python/frequency-queries.py)
 Mathematics - Fundamentals      | [Handshake](https://www.hackerrank.com/challenges/handshake/problem) | Easy | 10.0 | [Python](./Python/handshake.py)
+Interview Preparation Kit - Search | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) | Medium | 35.0 | [Python](./Python/ctci-ice-cream-parlor.py)
 Interview Preparation Kit - Dictionaries and Hashmaps | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | Easy | 25.0 | [Python](./Python/ctci-ransom-note.py)
 Interview Preparation Kit - Sorting | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem) | Easy | 35.0 | [Python](./Python/mark-and-toys.py)
 Interview Preparation Kit - Dynamic Programming | [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem) | Medium | 20.0 | [Python](./Python/max-array-sum.py)
