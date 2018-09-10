@@ -17,6 +17,7 @@ Algorithms - Dynamic Programming | [Fibonacci Modified](https://www.hackerrank.c
 Interview Preparation Kit - Dictionaries and Hashmaps | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) | Medium | 40.0 | [Python](./Python/frequency-queries.py)
 Algorithms - Strings | [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem) | Easy | 20.0 | [Python](./Python/gem-stones.py)
 Algorithms - Greedy | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem) | Medium | 35.0 | [Python](./Python/greedy-florist.py)
+Algorithms - Search | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) | Medium | 25.0 | [Python](./Python/hackerland-radio-transmitters.py)
 Mathematics - Fundamentals      | [Handshake](https://www.hackerrank.com/challenges/handshake/problem) | Easy | 10.0 | [Python](./Python/handshake.py)
 Interview Preparation Kit - Search | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) | Medium | 35.0 | [Python](./Python/ctci-ice-cream-parlor.py)
 Interview Preparation Kit - Dictionaries and Hashmaps | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | Easy | 25.0 | [Python](./Python/ctci-ransom-note.py)
